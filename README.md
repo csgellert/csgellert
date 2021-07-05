@@ -2,7 +2,7 @@
 
 ## Projektjeim:
 
-### Hack Kosice Marathonra készült projektek közül néhány:
+### Hack Kosice Marathonra készült projektek:
 - [Discord Bot order assistant](https://github.com/FaboBence/HackMarathon_MechaHU_1) [Szponzor díj nyertes projekt]: A [Feladat](https://hackkosice.com/marathon/sudolabs/) értelmében a cég dolgozóinak ételrendelését
 megkönnyítő megoldást kellett taláni. 
 - [Augmented Reality Office](https://github.com/FaboBence/HackMarathon_MechaHU_2) [Szponzor díj nyertes projekt]: A [Feladat](https://hackkosice.com/marathon/visma/) az volt, hogy a koronavírus miatt egyre inkább
