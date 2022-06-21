@@ -2,6 +2,9 @@
 
 ## Projektjeim:
 
+### Craft #LikeABosch 2021 hackathon:
+[Hackathon Grad Winner] A verseny során autóipari feladatokat kellett megoldani, mi ezen belül a *Hardver* kategriában idultunk. Magyarországon évete 15 000 nagytestű vadat gázolak el, amely mind az élővilágra káros, mind pedig komoly ayagi károkat, személyi sérüléseket okoz. Ezért mi a versey során kidolgoztuk az [ACAS (Animal Collision Avoidance System)](https://github.com/FaboBence/CraftLikeABosch) koncepcióját, amely egy infrakamerákból álló rendszer, melynek célja vadgázolások megakadályozása, azáltal hogy infra kamerával figyeli a jármű körül az erdőt és figyelmezteti a sofőrt az esetleges veszélyekre, szükség esetén pedig be is avatkozik. A projekttel elnyertük a Hackathon Grand Winner címet.
+
 ### Hack Kosice Marathonra készült projektek:
 - [Discord Bot order assistant](https://github.com/FaboBence/HackMarathon_MechaHU_1) [Szponzor díj nyertes projekt]: A [Feladat](https://hackkosice.com/marathon/sudolabs/) értelmében a cég dolgozóinak ételrendelését
 megkönnyítő megoldást kellett taláni. 
