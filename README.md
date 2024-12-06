@@ -2,6 +2,12 @@
 
 ## Projektjeim:
 
+### 2024 TDK Konferencia:
+A 2024-es Villamosmérnöki és Informatikai Kar által szervezett Tudományos Diákköri Konferencián elért I. helyezés. A dolgozat címe: Peremfeltételek érvényesítése trimmelt tartományok izogeometrikus analíziséhez neurális távolságmezők segítségével. 
+
+### Aream
+2022-ben a Gépesz Szakkollégium Alkalmazott Mechanika Szakosztályában végezt projekt, melynek célja egy az oktatásban használható segédanyag létrehozása, aminek célja hogy egy grafikus program segítsegével különböző geometriai alakzatok másodrendű felületi nyomatéka kiszámítható legyen. 
+
 ### Craft #LikeABosch 2021 hackathon:
 [Hackathon Grad Winner] A verseny során autóipari feladatokat kellett megoldani, mi ezen belül a *Hardver* kategriában idultunk. Magyarországon évete 15 000 nagytestű vadat gázolak el, amely mind az élővilágra káros, mind pedig komoly ayagi károkat, személyi sérüléseket okoz. Ezért mi a versey során kidolgoztuk az [ACAS (Animal Collision Avoidance System)](https://github.com/FaboBence/CraftLikeABosch) koncepcióját, amely egy infrakamerákból álló rendszer, melynek célja vadgázolások megakadályozása, azáltal hogy infra kamerával figyeli a jármű körül az erdőt és figyelmezteti a sofőrt az esetleges veszélyekre, szükség esetén pedig be is avatkozik. A projekttel elnyertük a Hackathon Grand Winner címet.
 
